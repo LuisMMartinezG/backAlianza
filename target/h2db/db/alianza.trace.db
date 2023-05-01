@@ -1,0 +1,8 @@
+2023-04-28 22:14:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE FROM CLIENTS WHERE shared_key [*]? "
+Syntax error in SQL statement "DELETE FROM CLIENTS WHERE shared_key [*]? "; SQL statement:
+DELETE FROM CLIENTS WHERE shared_key ?  [42000-214]
+2023-04-28 22:14:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE FROM CLIENTS WHERE shared_key [*]? "
+Syntax error in SQL statement "DELETE FROM CLIENTS WHERE shared_key [*]? "; SQL statement:
+DELETE FROM CLIENTS WHERE shared_key ?  [42000-214]
